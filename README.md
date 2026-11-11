@@ -92,7 +92,7 @@ Building robust ETL/ELT pipelines for the **pension and insurance domain** using
   </a>
 </p>
 
-**Issued:** August 2024 | **Valid until:** August 2027
+**Issued:** August 2026
 
 ---
 
