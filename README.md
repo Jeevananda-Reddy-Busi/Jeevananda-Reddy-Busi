@@ -3,7 +3,7 @@
 <h3 align="center">Azure Data Engineer | Building Scalable Data Pipelines & Analytics Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=3%2B+Years+in+Data+Engineering;Azure+%7C+Databricks+%7C+PySpark+%7C+SQL;Building+Enterprise+Data+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=3.5+Years+in+Data+Engineering;Azure+%7C+Databricks+%7C+PySpark+%7C+SQL;Building+Enterprise+Data+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,14 +26,15 @@
 
 ## 🚀 About Me
 
-Azure Data Engineer at **Tata Consultancy Services** with **3+ years** of experience building enterprise-scale data solutions. I work on production data platforms that support **12M+ customers** and **15M+ pension and annuity policies**, processing **3.5M+ records daily** with **98%+ on-time delivery**.
+Azure Data Engineer at **Tata Consultancy Services** with **3.5 years** of experience building enterprise-scale data solutions. I work on production data platforms that support **12M+ customers** and **21.5M+ pension and annuity policies**, processing **millions of records daily** with **98%+ on-time delivery**.
 
 ### 🎯 Current Focus
-Building robust ETL/ELT pipelines for the **pension and insurance domain** using Azure Data Factory, Databricks, PySpark, and Synapse Analytics. My work involves integrating data from multiple source systems, implementing incremental processing strategies, and delivering high-quality analytics-ready data.
+Building robust ETL/ELT pipelines for the **pension and insurance domain** using Azure Data Factory, Databricks, PySpark, and Synapse Analytics. My work involves integrating REST APIs, on-premises databases, and multi-format files; contributing to on-premises-to-Azure migration; implementing CDC and watermark-based incremental processing; and delivering high-quality analytics-ready data.
 
 ### ⚡ Key Achievements
 - Optimized data pipelines reducing runtime by **~20%** and improving reporting refresh times
-- Implemented **SCD Type 1/Type 2** for historical tracking across Star and Snowflake schemas
+- Implemented **CDC, watermark-based incremental loads, and SCD Type 1/Type 2** across Star and Snowflake schemas
+- Contributed to **on-premises-to-Azure migration**, including extraction, transformation, validation, and loading
 - Secured enterprise pipelines using **Azure Key Vault, Managed Identity, and Service Principals**
 - Reduced post-release defects by **~15%** through rigorous testing and collaboration with QA teams
 - Set up monitoring and alerting with **Logic Apps**, reducing issue detection time from hours to minutes
@@ -45,6 +46,8 @@ Building robust ETL/ELT pipelines for the **pension and insurance domain** using
 - ⚡ Optimize **SQL queries and PySpark transformations** for performance
 - 🛡️ Secure pipelines using **Azure Key Vault, Managed Identity, and Service Principals**
 - 📈 Deliver analytics-ready data for **business intelligence and reporting**
+- Work with **Azure DevOps, Git, YAML pipelines, and CI/CD deployment practices**
+- Explore AI-assisted development using **GitHub Copilot, Databricks Genie, custom AI agent development, and prompt engineering**
 
 ---
 
@@ -74,6 +77,10 @@ Building robust ETL/ELT pipelines for the **pension and insurance domain** using
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+**Additional skills:** CI/CD Pipelines · YAML · Databricks Genie · Custom AI Agent Development · Prompt Engineering
 
 ---
 
